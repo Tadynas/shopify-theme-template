@@ -1,2 +1,1 @@
-# Elizabeth
-# Shopify Theme Development Course Project Files
+Shopify Hello World Template
